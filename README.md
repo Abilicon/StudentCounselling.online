@@ -1,5 +1,4 @@
 # StudentCounselling.online
-Student counselling system
 Student Counselling System includes use of various psychological and behavioral tools and suggestive measures to help students cope with their mental health issues.
 •	The interface satisfies the user design requirements.
 •	Once created, the two users, log-in, and authentication modules are operational.
